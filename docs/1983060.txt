@@ -1,3 +1,5 @@
+## [Unreleased]
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/1983060.txt` (#76)
 ## [unreleased]
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
 ## [Unreleased]
